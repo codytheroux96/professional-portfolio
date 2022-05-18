@@ -25,3 +25,9 @@ section img {
     width: 100px;
     
 }
+article {
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+   padding: 30px;
+}
