@@ -33,12 +33,14 @@ p{
     text-align: right;
     margin: auto;
     color: white;
+    font-size: large;
 }
 
 h2{
     text-align: center;
     color: White;
     font-size: xx-large;
+    margin-bottom: 20px;
 }
 section {
     width: 60%;
