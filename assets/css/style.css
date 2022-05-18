@@ -41,7 +41,7 @@ p {
 }
 
 figure {
-    border: 5px solid;
+    border: 10px solid;
     border-color: white;
 }
 
@@ -79,7 +79,9 @@ article {
     border: 5px solid;
     border-color: white;
 }
-
+aside{ 
+    margin-top: 5px;
+}
 footer {
     padding: 20px;
     font-size: xx-large;
