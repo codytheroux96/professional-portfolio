@@ -37,7 +37,7 @@ p{
 h2{
     text-align: center;
     color: black;
-    font-size: x-large;
+    font-size: xx-large;
 }
 section {
     width: 60%;
@@ -63,8 +63,6 @@ article {
 footer {
     padding: 20px;
     font-size:xx-large;
-    border: 5px solid;
-    border-color: white;
 }
 h3{
     display: inline-block;
