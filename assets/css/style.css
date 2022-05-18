@@ -1,11 +1,14 @@
-body{
+header{
     background-color: black;
 }
 h1{
     color: White;
     font-size: x-large;
     text-align: center;
+    margin: auto;
+    padding: 20px;
 }
+
 nav {
     width: 100%;
     text-align: center;
@@ -24,11 +27,11 @@ footer{
     text-align: center;
     position: relative;
     display: grid;
-    color: white;
+    color: black;
 }
 h2{
     text-align: center;
-    color: white;
+    color: black;
     font-size: x-large;
 }
 section {
