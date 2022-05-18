@@ -83,6 +83,9 @@ article {
     margin-bottom: 20px;
     
 }
+.seo-refactor h4{
+    color: white;
+}
 .google{
     background-image: url(../images/download.jpg);
     height: 150px;
