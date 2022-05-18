@@ -50,14 +50,16 @@ section {
     margin-left: auto;
     margin-right: auto;
    padding: 30px;
+   margin-bottom: 275px;
+   margin-top: 125px;
 }
 
 section img {
-    height: 200px;
-    width: 200px;
+    height: 300px;
+    width: 300px;
     border: 5px solid;
     border-color: white;
-    
+    float: left;
 }
 
 article {
