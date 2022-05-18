@@ -76,8 +76,27 @@ article {
     border: 5px solid;
     border-color: white;
 }
-aside{ 
-    margin-top: 5px;
+
+
+.seo-refactor{
+    background-image:url(../images/Horiseon-Search-Engine-Optimization.png);
+    height: 500px;
+}
+.google{
+    background-image: url(../images/download.jpg);
+    height: 150px;
+}
+.bing{
+    background-image: url(../images/download\ \(1\).jpg);
+    height: 150px;
+}
+.yahoo{
+    background-image:url(../images/_121315196_gettyimages-1232679167.jpg);
+    height: 150px;
+}
+.twitter{
+    background-image: url(../images/download\ \(2\).jpg);
+    height:150px;
 }
 footer {
     padding: 20px;
