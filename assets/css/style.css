@@ -63,10 +63,7 @@ section img {
     float: left;
     margin-right: 20px;
 }
-figure {
-    border: 10px solid;
-    border-color: white;
-}
+
 
 article {
     width: 100%;
@@ -81,22 +78,29 @@ article {
 .seo-refactor{
     background-image:url(../images/Horiseon-Search-Engine-Optimization.png);
     height: 500px;
+    width:53%;
+    margin: 0 auto;
+    
 }
 .google{
     background-image: url(../images/download.jpg);
     height: 150px;
+    background-repeat: no-repeat;
 }
 .bing{
     background-image: url(../images/download\ \(1\).jpg);
     height: 150px;
+    background-repeat: no-repeat;
 }
 .yahoo{
     background-image:url(../images/_121315196_gettyimages-1232679167.jpg);
     height: 150px;
+    background-repeat: no-repeat;
 }
 .twitter{
     background-image: url(../images/download\ \(2\).jpg);
     height:150px;
+    background-repeat: no-repeat;
 }
 footer {
     padding: 20px;
