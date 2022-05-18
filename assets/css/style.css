@@ -32,11 +32,12 @@ nav a{
 p{
     text-align: right;
     margin: auto;
+    color: white;
 }
 
 h2{
     text-align: center;
-    color: black;
+    color: White;
     font-size: xx-large;
 }
 section {
@@ -68,8 +69,9 @@ h3{
     display: inline-block;
     padding: 60px;
     margin-left: 65px;
+    color: white;
 }
 h3 a{
     text-decoration: none;
-    color: black;
+    color:White;
 }
