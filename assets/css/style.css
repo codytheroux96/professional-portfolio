@@ -80,7 +80,9 @@ article {
 footer {
     padding: 20px;
     font-size: xx-large;
-    margin-top: 50px;
+    margin-top: 150px;
+    border: 5px solid;
+    border-color: white;
 }
 
 h3 {
