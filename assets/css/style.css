@@ -17,4 +17,11 @@ section {
     width: 60%;
     margin-left: auto;
     margin-right: auto;
+   padding: 30px;
+}
+
+section img {
+    height: 100px;
+    width: 100px;
+    
 }
