@@ -1,5 +1,5 @@
 header{
-    background-color: black;
+    background-color: goldenrod;
 }
 h1{
     color: White;
@@ -19,7 +19,7 @@ nav a{
     width: 100%;
    margin: 50px;
     font-size:x-large;
-    background-color: black;
+    background-color: goldenrod;
     color: white; 
 }
 footer{
