@@ -80,12 +80,14 @@ article {
     height: 500px;
     width:53%;
     margin: 0 auto;
+    margin-bottom: 20px;
     
 }
 .google{
     background-image: url(../images/download.jpg);
     height: 150px;
     background-repeat: no-repeat;
+    text-align: center;
 }
 .bing{
     background-image: url(../images/download\ \(1\).jpg);
