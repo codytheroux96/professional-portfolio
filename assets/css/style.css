@@ -81,6 +81,8 @@ article {
     width:53%;
     margin: 0 auto;
     margin-bottom: 20px;
+    border: 5px solid;
+    border-color: white;
     
 }
 .seo-refactor h4{
@@ -90,12 +92,13 @@ article {
     background-image: url(../images/download.jpg);
     height: 150px;
     background-repeat: no-repeat;
-    margin-left: 270px;
+   
 }
 .bing{
     background-image: url(../images/download\ \(1\).jpg);
     height: 150px;
-    background-repeat: no-repeat;  
+    background-repeat: no-repeat; 
+
 }
 
 .yahoo{
@@ -103,6 +106,8 @@ article {
     height: 150px;
     width: 275px;
     background-repeat: no-repeat;
+    border: 5px solid;
+    border-color: white;
 }
 .yahoo h4{
     color: white;
