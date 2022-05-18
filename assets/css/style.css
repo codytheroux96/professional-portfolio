@@ -92,20 +92,25 @@ article {
 .bing{
     background-image: url(../images/download\ \(1\).jpg);
     height: 150px;
-    background-repeat: no-repeat;
-    
-    
+    background-repeat: no-repeat;  
 }
+
 .yahoo{
     background-image:url(../images/_121315196_gettyimages-1232679167.jpg);
     height: 150px;
     width: 275px;
     background-repeat: no-repeat;
 }
+.yahoo h4{
+    color: white;
+}
 .twitter{
     background-image: url(../images/download\ \(2\).jpg);
     height:150px;
     background-repeat: no-repeat;
+}
+.twitter h4{
+    color:white;
 }
 footer {
     padding: 20px;
