@@ -30,11 +30,13 @@ nav a {
 }
 
 p {
-    text-align: right;
+    text-align: left;
     color: white;
     font-size: xx-large;
     padding: 5px;
+
 }
+
 
 figure {
     border: 10px solid;
@@ -65,6 +67,7 @@ section img {
     border: 5px solid;
     border-color: white;
     float: left;
+    margin-right: 20px;
 }
 
 article {
