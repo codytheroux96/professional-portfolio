@@ -1,8 +1,10 @@
+/*Setting the parameters for the main part of my page*/
 main {
+
     width: 80%;
     margin: 0 auto;
 }
-
+/*The settings for my h1 header*/
 h1 {
     color: White;
     font-size: 75px;
@@ -11,13 +13,13 @@ h1 {
     margin: auto;
     padding: 20px;
 }
-
+/*This will be the settings for the nav bar that hold my internal links*/
 nav {
    display: flex;
    justify-content: space-evenly;
     padding: 40px;
 }
-
+/*These are the settings for the internal links in my nav bar*/
 nav a {
     width: 100%;
     margin: 100px;
@@ -26,7 +28,7 @@ nav a {
     color: white;
     
 }
-
+/*These are the settings for the paragraph in the section part of my page*/
 p {
     text-align: center;
     color: white;
@@ -34,14 +36,14 @@ p {
     padding: 5px;
 
 }
-
+/*settings for my h2 headers*/
 h2 {
     text-align: center;
     color: White;
     font-size: 50px;
     margin-bottom: 20px;
 }
-
+/*These are the settings for the area I made as section*/
 section {
     width: 80%;
     margin-left: auto;
@@ -52,7 +54,7 @@ section {
     border: 5px solid;
     border-color: white;
 }
-
+/*These are the settings for the image in my area section which is the picture of me*/
 section img {
     height: 300px;
     width: 300px;
@@ -62,7 +64,7 @@ section img {
     margin-right: 20px;
 }
 
-
+/*The settings for article which is the area with figure in it which contains the image and link to horiseon seo project*/
 article {
     width: 100%;
     margin-left: auto;
@@ -71,16 +73,18 @@ article {
     border: 5px solid;
     border-color: white;
 }
-
+/*These are the settings for the area that contain the other 4 project pictures and links*/
 aside {
     display: flex;
     justify-content: center;
     align-items: center;
     margin: 10px;
 }
+/*Taking the text decoration off of the caption I put into the image in figure*/
 figure a {
     text-decoration: none;
 }
+/*These are the settings for all the div classes I have.*/
 .seo-refactor{
     background-image:url(../images/Horiseon-Search-Engine-Optimization.png);
     height: 500px;
@@ -132,6 +136,7 @@ figure a {
     border-color: darkblue;
     margin-bottom: 20px;
 }
+/*These are the settings for all the captions in the pictures in my div classes*/
 .yahoo h4{
     color: white;
 }
@@ -148,6 +153,7 @@ figure a {
 div a{
     text-decoration: none;
 }
+/*The settings for the footer of my page*/
 footer {
     display: flex;
     justify-content: center;
@@ -157,18 +163,19 @@ footer {
     border-color: white;
     margin-top: 100px;
 }
-
+/*The settings for the content within my footer*/
 h3 {
     display: inline-block;
     padding: 60px;
     margin-left: 65px;
     color: white;
 }
-
+/*The settings for the hyperlink in the contact me area in my footer (my github is the hyperlink)*/
 h3 a {
     text-decoration: none;
     color: White;
 }
+/*All of my media querys to make this page mobile responsive*/
 @media only screen and (max-width: 768px){
     aside{flex-direction: column}
 }
