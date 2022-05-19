@@ -5,4 +5,5 @@ In this project I made a simple portfolio. I had three sections made on this por
 
 
 ## Resources
-- [Live Site]()
+- [Live Site](https://codytheroux96.github.io/professional-portfolio/)
+- [Repository](https://github.com/codytheroux96/professional-portfolio)
