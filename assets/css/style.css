@@ -49,7 +49,7 @@ section {
     margin-left: auto;
     margin-right: auto;
     padding: 30px;
-    margin-bottom: 150px;
+    margin-bottom: 100px;
     margin-top: 125px;
     border: 5px solid;
     border-color: white;
@@ -157,6 +157,7 @@ footer {
     margin: 10px;
     border: 5px solid;
     border-color: white;
+    margin-top: 100px;
 }
 
 h3 {
