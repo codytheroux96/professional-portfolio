@@ -151,9 +151,10 @@ div a{
     text-decoration: none;
 }
 footer {
-    padding: 20px;
-    font-size: xx-large;
-    margin-top: 150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 10px;
     border: 5px solid;
     border-color: white;
 }
@@ -169,3 +170,4 @@ h3 a {
     text-decoration: none;
     color: White;
 }
+
