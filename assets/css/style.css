@@ -74,6 +74,12 @@ article {
     border-color: white;
 }
 
+aside {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 10px;
+}
 
 .seo-refactor{
     background-image:url(../images/Horiseon-Search-Engine-Optimization.png);
@@ -88,17 +94,30 @@ article {
 .seo-refactor h4{
     color: white;
 }
+
+
 .google{
     background-image: url(../images/download.jpg);
-    height: 150px;
     background-repeat: no-repeat;
-   
+    height: 150px;
+    width: 275px;
+    margin-bottom: 20px;
+    margin-right: 20px;
 }
 .bing{
     background-image: url(../images/download\ \(1\).jpg);
     height: 150px;
+    width: 275px;
     background-repeat: no-repeat; 
+    margin-bottom: 20px;
 
+}
+.twitter{
+    background-image: url(../images/download\ \(2\).jpg);
+    height:150px;
+    background-repeat: no-repeat;
+    width: 275px;
+    margin-bottom: 20px;
 }
 
 .yahoo{
@@ -108,15 +127,12 @@ article {
     background-repeat: no-repeat;
     border: 5px solid;
     border-color: white;
+    margin-bottom: 20px;
 }
 .yahoo h4{
     color: white;
 }
-.twitter{
-    background-image: url(../images/download\ \(2\).jpg);
-    height:150px;
-    background-repeat: no-repeat;
-}
+
 .twitter h4{
     color:white;
 }
