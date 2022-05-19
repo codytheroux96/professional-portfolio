@@ -80,7 +80,9 @@ aside {
     align-items: center;
     margin: 10px;
 }
-
+figure a {
+    text-decoration: none;
+}
 .seo-refactor{
     background-image:url(../images/Horiseon-Search-Engine-Optimization.png);
     height: 500px;
@@ -135,6 +137,15 @@ aside {
 
 .twitter h4{
     color:white;
+}
+.bing h4{
+    color:black;
+}
+.google h4{
+    color: black;
+}
+div a{
+    text-decoration: none;
 }
 footer {
     padding: 20px;
