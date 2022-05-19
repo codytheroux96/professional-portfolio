@@ -184,3 +184,9 @@ h3 a {
 @media only screen and (max-width: 768px){
     section img{flex-direction: column}
 }
+nav a:hover {
+font-size: 55px;
+}
+h3 a:hover{
+    font-size: 55px;
+}
